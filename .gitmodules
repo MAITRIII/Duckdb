@@ -1,0 +1,13 @@
+[submodule "extension-ci-tools"]
+	path = extension-ci-tools
+	url = https://github.com/duckdb/extension-ci-tools
+	branch = main
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/jishrup/DuckDB
+[submodule "src/ALEX"]
+	path = src/ALEX
+	url = https://github.com/microsoft/ALEX
+[submodule "src/PGM-index"]
+	path = src/PGM-index
+	url = https://github.com/gvinciguerra/PGM-index.git
